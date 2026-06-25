@@ -68,7 +68,7 @@ I'm a passionate web developer focused on creating modern, responsive, and user-
 
 ## 📫 How to Reach Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/shehraj-developer
 - Feel free to connect with me through GitHub for collaborations, project discussions, or web development opportunities.
 
 ---
